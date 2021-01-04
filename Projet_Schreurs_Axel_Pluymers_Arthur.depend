@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1583440614 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\perso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"perso.h"
+
+1583410931 c:\workspace-c\projet_schreurs_axel_pluymers_arthur\perso.h
+	<time.h>
+
+1586282884 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+
+1586268087 c:\workspace-c\projet_schreurs_axel_pluymers_arthur\disease.h
+
+1586435793 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\disease.c
+	"disease.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1586265812 c:\workspace-c\projet_schreurs_axel_pluymers_arthur\symptom.h
+
+1586438732 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\symptom.c
+	"symptom.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1586352233 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\pivot.c
+	<string.h>
+	<stdio.h>
+	"Pivot.h"
+	"perso.h"
+
+1586435009 c:\workspace-c\projet_schreurs_axel_pluymers_arthur\pivot.h
+
+1586272593 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\detail.c
+
+1586644951 source:c:\workspace-c\projet_schreurs_axel_pluymers_arthur\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"perso.h"
+
+1586435996 c:\workspace-c\projet_schreurs_axel_pluymers_arthur\controller.h
+	"disease.h"
+	"symptom.h"
+	"pivot.h"
+
+1591297746 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"perso.h"
+
+1586435996 c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\controller.h
+	"disease.h"
+	"symptom.h"
+	"pivot.h"
+
+1591292714 c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\disease.h
+
+1586265812 c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\symptom.h
+
+1586435009 c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\pivot.h
+
+1583410931 c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\perso.h
+	<time.h>
+
+1591294861 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\disease.c
+	"disease.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1586282884 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+
+1583440614 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\perso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"perso.h"
+
+1586352233 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\pivot.c
+	<string.h>
+	<stdio.h>
+	"Pivot.h"
+	"perso.h"
+
+1591294724 source:c:\workspace-c\2.0projet_schreurs_axel_pluymers_arthur\symptom.c
+	"symptom.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1591801866 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"perso.h"
+
+1586435996 c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\controller.h
+	"disease.h"
+	"symptom.h"
+	"pivot.h"
+
+1591292714 c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\disease.h
+
+1586265812 c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\symptom.h
+
+1586435009 c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\pivot.h
+
+1583410931 c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\perso.h
+	<time.h>
+
+1591294861 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\disease.c
+	"disease.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1586282884 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+
+1583440614 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\perso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"perso.h"
+
+1586352233 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\pivot.c
+	<string.h>
+	<stdio.h>
+	"Pivot.h"
+	"perso.h"
+
+1591294724 source:c:\users\bûchelaptop\documents\mega\eci\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\symptom.c
+	"symptom.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1591801866 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"perso.h"
+
+1586435996 c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\controller.h
+	"disease.h"
+	"symptom.h"
+	"pivot.h"
+
+1591292714 c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\disease.h
+
+1586265812 c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\symptom.h
+
+1586435009 c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\pivot.h
+
+1583410931 c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\perso.h
+	<time.h>
+
+1591294861 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\disease.c
+	"disease.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
+1586282884 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+
+1583440614 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\perso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"perso.h"
+
+1586352233 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\pivot.c
+	<string.h>
+	<stdio.h>
+	"Pivot.h"
+	"perso.h"
+
+1591294724 source:c:\users\bûchelaptop\documents\mega\eci\bloc 1\pap\codeblocks\workspace\2.0projet_schreurs_axel_pluymers_arthur\symptom.c
+	"symptom.h"
+	"perso.h"
+	<string.h>
+	<stdio.h>
+
